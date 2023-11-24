@@ -4,9 +4,7 @@
 
 ## Objective:
 The objective of the game is to combine numbered tiles on a 4x4 grid to create a tile with the number 2048.
-
-<img width="150" alt="2048_logo svg" src="https://github.com/ml703852/2048/assets/122187040/e5b00deb-b51d-424a-8f55-5dc0ce49562f">
-
+<br/>
 
 ## Controls:
 Use the following keys to make moves in the game:
