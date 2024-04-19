@@ -55,9 +55,4 @@ Mehak Lohchan
 If you would like to play the official 2048 game, you can visit the following website: https://play2048.co/
 
 
-If you're curious to learn more about the game and want to explore additional information, here are some resources that provide further insights into 2048:
-https://en.wikipedia.org/wiki/2048_(video_game)
-
-
-
 ### Enjoy playing 2048!
